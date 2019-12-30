@@ -1,2 +1,2 @@
 # hrllo-world
-Checking COnnection
+Checking Connection
